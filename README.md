@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @phuby
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Backend dev
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me send me email
 
 <!---
 phuby/phuby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
